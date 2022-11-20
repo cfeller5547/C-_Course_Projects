@@ -1,0 +1,3 @@
+﻿  string practice.cpp
+C:\Users\chris\source\repos\string practice\string practice\string practice.cpp(23): warning C4715: 'reverse': not all control paths return a value
+  string practice.vcxproj -> C:\Users\chris\source\repos\string practice\Debug\string practice.exe

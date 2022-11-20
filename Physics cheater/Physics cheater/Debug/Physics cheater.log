@@ -1,0 +1,7 @@
+﻿  Physics cheater.cpp
+C:\Users\chris\source\repos\Physics cheater\Physics cheater\Physics cheater.cpp(81,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\chris\source\repos\Physics cheater\Physics cheater\Physics cheater.cpp(81,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\chris\source\repos\Physics cheater\Physics cheater\Physics cheater.cpp(91,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\chris\source\repos\Physics cheater\Physics cheater\Physics cheater.cpp(91,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\chris\source\repos\Physics cheater\Physics cheater\Physics cheater.cpp(95,85): error C2676: binary '*': 'std::string' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\chris\source\repos\Physics cheater\Physics cheater\Physics cheater.cpp(152,35): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data

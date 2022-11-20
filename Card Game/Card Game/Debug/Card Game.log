@@ -1,0 +1,3 @@
+﻿  Card Game.cpp
+C:\Users\chris\source\repos\Card Game\Card Game\Card Game.cpp(123,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Card Game.vcxproj -> C:\Users\chris\source\repos\Card Game\Debug\Card Game.exe

@@ -1,0 +1,5 @@
+﻿  section 8 challenge.cpp
+C:\Users\chris\source\repos\section 8 challenge\section 8 challenge\section 8 challenge.cpp(54,37): error C2601: 'accrueinterest': local function definitions are illegal
+C:\Users\chris\source\repos\section 8 challenge\section 8 challenge\section 8 challenge.cpp(8): message : this line contains a '{' which has not yet been matched
+C:\Users\chris\source\repos\section 8 challenge\section 8 challenge\section 8 challenge.cpp(62,1): error C2059: syntax error: '}'
+C:\Users\chris\source\repos\section 8 challenge\section 8 challenge\section 8 challenge.cpp(62,1): error C2143: syntax error: missing ';' before '}'

@@ -1,0 +1,3 @@
+﻿  Average of numbers.cpp
+C:\Users\chris\source\repos\Average of numbers\Average of numbers\Average of numbers.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Average of numbers.vcxproj -> C:\Users\chris\source\repos\Average of numbers\Debug\Average of numbers.exe

@@ -1,0 +1,2 @@
+﻿  classes and calling practice.cpp
+C:\Users\chris\source\repos\classes and calling practice\classes and calling practice\classes and calling practice.cpp(14,1): error C3867: 'player::addnums': non-standard syntax; use '&' to create a pointer to member

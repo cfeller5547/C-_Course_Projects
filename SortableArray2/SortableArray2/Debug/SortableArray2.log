@@ -1,0 +1,3 @@
+﻿  SortableArray.cpp
+C:\Users\chris\source\repos\SortableArray2\SortableArray2\SortableArray.cpp(111,25): warning C4101: 'e': unreferenced local variable
+  SortableArray2.vcxproj -> C:\Users\chris\source\repos\SortableArray2\Debug\SortableArray2.exe

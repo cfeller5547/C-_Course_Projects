@@ -1,0 +1,3 @@
+﻿  AddressBook.cpp
+C:\Users\chris\source\repos\Intermediate c++ Lab 2\Intermediate c++ Lab 2\AddressBook.cpp(40): warning C4715: 'AddressBook::insertNode': not all control paths return a value
+  Intermediate c++ Lab 2.vcxproj -> C:\Users\chris\source\repos\Intermediate c++ Lab 2\Debug\Intermediate c++ Lab 2.exe

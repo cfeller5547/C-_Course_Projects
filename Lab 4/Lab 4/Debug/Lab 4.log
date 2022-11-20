@@ -1,0 +1,12 @@
+﻿  Lab 4.cpp
+C:\Users\chris\source\repos\Lab 4\Lab 4\Lab 4.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\chris\source\repos\Lab 4\Lab 4\Lab 4.cpp(33,35): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\chris\source\repos\Lab 4\Lab 4\Lab 4.cpp(43,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\chris\source\repos\Lab 4\Lab 4\Lab 4.cpp(59,35): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\chris\source\repos\Lab 4\Lab 4\Lab 4.cpp(70,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\chris\source\repos\Lab 4\Lab 4\Lab 4.cpp(86,35): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\chris\source\repos\Lab 4\Lab 4\Lab 4.cpp(97,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\chris\source\repos\Lab 4\Lab 4\Lab 4.cpp(113,35): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\chris\source\repos\Lab 4\Lab 4\Lab 4.cpp(137,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\chris\source\repos\Lab 4\Lab 4\Lab 4.cpp(135,9): warning C4101: 'z': unreferenced local variable
+  Lab 4.vcxproj -> C:\Users\chris\source\repos\Lab 4\Debug\Lab 4.exe

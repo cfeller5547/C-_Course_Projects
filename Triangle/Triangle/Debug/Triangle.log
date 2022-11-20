@@ -1,0 +1,3 @@
+﻿  Triangle.cpp
+C:\Users\chris\source\repos\Triangle\Triangle\Triangle.cpp(9,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Triangle.vcxproj -> C:\Users\chris\source\repos\Triangle\Debug\Triangle.exe
